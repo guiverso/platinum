@@ -1,0 +1,24 @@
+{
+  "name": "tcc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test-api": "nodemon api.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guiverso/platinum.git"
+  },
+  "author": "guilherme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guiverso/platinum/issues"
+  },
+  "homepage": "https://github.com/guiverso/platinum#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10",
+    "prisma": "^6.18.0"
+  }
+}
